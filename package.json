@@ -1,0 +1,33 @@
+{
+  "name": "block-chain-using-javascript",
+  "version": "1.0.0",
+  "description": "this program will tell you how to create basic block chain and how to test its immutability",
+  "main": "Main.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martandsingh/block-chain-javascript.git"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "codemaker",
+    "crypto-currency",
+    "immutable",
+    "crypto",
+    "block-chain",
+    "martandsingh"
+  ],
+  "author": "Martand Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martandsingh/block-chain-javascript/issues"
+  },
+  "homepage": "https://github.com/martandsingh/block-chain-javascript#readme"
+}
